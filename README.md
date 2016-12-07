@@ -5,5 +5,8 @@ A project based learning activity for people who are getting started with Git an
 You can play the game at: http://pjayapal.github.io/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
+Start the game
+Play the game
+Stop the game
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
