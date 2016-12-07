@@ -4,7 +4,7 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: http://pjayapal.github.io/github-games/
 
-Instructions for the game:
+Instructions for the game, NFS:
 Start the game
 Play the game
 Stop the game
